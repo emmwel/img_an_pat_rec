@@ -1,0 +1,9 @@
+Libraries:
+scipy
+skimage
+matplotlib
+cv2
+numpy
+sklearn
+tensorflow
+keras (tensorflow backend)
